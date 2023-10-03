@@ -35,7 +35,7 @@ At SWGEmu, Emulator refers to the software the SWGEmu team is building. This Emu
 
         mkdir -p ~/git
         cd ~/git
-        git clone http://review.swgemu.com/Core3
+        git clone https://github.com/swgemu/Core3
   * Build Core3 with 8 threads
 
         cd MMOCoreORB
